@@ -1,5 +1,5 @@
 # 建立一個SpringMVC + Spring + Hibernate 的Web專案
-
+[![hackmd-github-sync-badge](https://hackmd.io/wF-EIZsjSO-oE0pmSyQVkA/badge)](https://hackmd.io/wF-EIZsjSO-oE0pmSyQVkA)
 **本練習專案都是建立在Spring5上**
 
 **Step1:**
